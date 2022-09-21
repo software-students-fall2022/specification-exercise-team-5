@@ -5,8 +5,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Daniel Atlas
-Github profile: https://github.com/Spectraorder
+Daniel Atlas Github profile: https://github.com/Spectraorder
+
+Eduarda martini Github profile: https://github.com/ezmartini
 
 ## Stakeholders
 
