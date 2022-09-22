@@ -7,7 +7,9 @@ A little exercise to get started with the specification phase of the software de
 
 Daniel Atlas Github profile: https://github.com/Spectraorder
 
-Eduarda martini Github profile: https://github.com/ezmartini
+Eduarda Martini Github profile: https://github.com/ezmartini
+
+Alex Chen Github profile: https://github.com/TheAlexanderChen
 
 ## Stakeholders
 
