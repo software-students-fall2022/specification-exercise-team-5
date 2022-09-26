@@ -27,7 +27,7 @@ Claire is an NYU student who uses NYU reservation systems to quickly find priori
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+NYU students had a long problem with the current reservation system for the Bobst library, dining areas, technology requirements (computer lab), and classrooms. With the huge target audience among NYU students from undergraduate to graduate, the demand for a new study-space reservation system is significantly increasing. We intend to solve this problem by creating an interactive, real-time reservation system superior to what we have now.
 
 ## User Requirements
 
