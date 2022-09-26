@@ -31,13 +31,15 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-As a student, I want to know which classrooms aren’t in use so I can host a meeting. 
+### User Stories
 
-As a commuter, I want to reserve a seat in advance so I will have somewhere to sit between campus, reliably. 
+- As a student, I want to know which classrooms aren’t in use so I can host a meeting. 
 
-As a student, I want to reserve a console so I can play games with friends. 
+- As a commuter, I want to reserve a seat in advance so I will have somewhere to sit between campus, reliably. 
 
-As a student, I want to reserve a study space so that I can have a silent study environment.
+- As a student, I want to reserve a console so I can play games with friends. 
+
+- As a student, I want to reserve a study space so that I can have a silent study environment.
 
 
 ## Activity Diagrams
