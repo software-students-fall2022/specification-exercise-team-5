@@ -27,27 +27,31 @@ Claire is an NYU student who uses NYU reservation systems to quickly find priori
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+NYU students had a long problem with the current reservation system for the Bobst library, dining areas, technology requirements (computer lab), and classrooms. With the huge target audience among NYU students from undergraduate to graduate, the demand for a new study-space reservation system is significantly increasing. We intend to solve this problem by creating an interactive, real-time reservation system superior to what we have now.
 
 ## User Requirements
 
- As a commuter, I want to know the features of a space, so I can find a place to charge my computer. 
+### User Stories
 
-As a student, I want to see real-time data about multiple NYU buildings, so I can choose which one to go to after class. 
+- As a student, I want to know which classrooms aren’t in use so I can host a meeting. 
 
-As a commuter, I want to be able to reserve a single seat so I don't have to use a study room. 
+- As a commuter, I want to know the features of a space, so I can find a place to charge my computer. 
 
-As a commuter, I want to be able to see predictions for when Bobst is less busy, so I can schedule a meeting in Bobst during that time. 
+- As a student, I want to see real-time data about multiple NYU buildings, so I can choose which one to go to after class. 
 
-As a student, I want to know which classrooms aren’t currently in use, so I can host a last minute meeting. 
+- As a commuter, I want to be able to reserve a single seat so I don't have to use a study room. 
 
-As a commuter, I want to reserve a seat in advance so I will have somewhere to sit between campus, reliably.
+- As a commuter, I want to be able to see predictions for when Bobst is less busy, so I can schedule a meeting in Bobst during that time. 
 
-As a student, I want to reserve a console so I can play games with friends. 
+- As a student, I want to know which classrooms aren’t currently in use, so I can host a last minute meeting. 
 
-As a student, I want to reserve a study space so that I can have a silent study environment.
+- As a commuter, I want to reserve a seat in advance so I will have somewhere to sit between campus, reliably.
 
-As a student, I want to be able to know the features of a computer lab, so I can access certain software.
+- As a student, I want to reserve a console so I can play games with friends. 
+
+- As a student, I want to reserve a study space so that I can have a silent study environment.
+
+- As a student, I want to be able to know the features of a computer lab, so I can access certain software.
 
 
 ## Activity Diagrams
