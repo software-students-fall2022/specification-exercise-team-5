@@ -5,20 +5,66 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Daniel Atlas Github profile: https://github.com/Spectraorder
+
+Eduarda Martini Github profile: https://github.com/ezmartini
+
+Alex Chen Github profile: https://github.com/TheAlexanderChen
+
+Ian Liao Github profile: https://github.com/ian-Liaozy
+
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Our intended stakeholders are NYU students who use NYU spaces, like libraries, dining halls, or technology centers, for any reason.  
+
+### Link to "interview" (Google Form)
+
+https://forms.gle/wTKkD35TMF552f8G9
+
+### Stakeholders we interviewed: 
+Claire is an NYU student who uses NYU reservation systems to quickly find priority seating on campus, to better organize her day, to have access to a place to convene with others, or to find a private spot on campus. Her biggest issue with the current NYU reservation system is its unintuitive interface, and confusing drop-down menus– both of which add a little frustration when trying to navigate through the page. On the other hand, Claire likes knowing the features of the room before she books it, and would like to see the same predictability throughout the redesigned app– with access to real time information about seat availability and busyness. 
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+NYU students are in need of a comprehensive and unified reservation system for Bobst, dining areas, technology, and classrooms, yet the current implementations are messy and fragmented, so we intend to create an interactive, real-time reservation system to not only unify the system but also add additional needed functionality. 
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+### User Stories
+
+- As a student, I want to know which classrooms aren’t in use so I can host a meeting. 
+
+- As a commuter, I want to know the features of a space, so I can find a place to charge my computer. 
+
+- As a student, I want to see real-time data about multiple NYU buildings, so I can choose which one to go to after class. 
+
+- As a commuter, I want to be able to reserve a single seat so I don't have to use a study room. 
+
+- As a commuter, I want to be able to see predictions for when Bobst is less busy, so I can schedule a meeting in Bobst during that time. 
+
+- As a student, I want to know which classrooms aren’t currently in use, so I can host a last minute meeting. 
+
+- As a commuter, I want to reserve a seat in advance so I will have somewhere to sit between campus, reliably.
+
+- As a student, I want to reserve a console so I can play games with friends. 
+
+- As a student, I want to reserve a study space so that I can have a silent study environment.
+
+- As a student, I want to be able to know the features of a computer lab, so I can access certain software.
+
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+User making a room reservation by searching or the room section
+
+<a href="https://www.figma.com/file/XYVwfrSNmy2idALxnAMT2m/UML-Room-res?node-id=0%3A1"><img src="./src/UML%20Room%20res.png" height="300" width="1000"/></a></a>
+
+
+## Wireframe Diagrams
+
+<a href="https://www.figma.com/file/tsQs2kiqpfBSQ6TXV3w506/Wireframe-diagram?node-id=0%3A1"><img src="./src/Wireframe%20diagram.png" height="400" /></a>
+
+## Clickable Prototype
+
+[Link to prototype](https://www.figma.com/file/1qeYtmnA9MI0NV0ljpfuT5/prototype?node-id=0%3A1)
