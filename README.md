@@ -35,7 +35,7 @@ NYU students are in need of a comprehensive and unified reservation system for B
 
 - As a student, I want to know which classrooms aren’t in use so I can host a meeting. 
 
-- As a commuter, I want to know the features of a space, so I can find a place to charge my computer. 
+- As a commuter, I want to know which computer labs are open so I can find a place to charge my computer. 
 
 - As a student, I want to see real-time data about multiple NYU buildings, so I can choose which one to go to after class. 
 
@@ -43,23 +43,26 @@ NYU students are in need of a comprehensive and unified reservation system for B
 
 - As a commuter, I want to be able to see predictions for when Bobst is less busy, so I can schedule a meeting in Bobst during that time. 
 
-- As a student, I want to know which classrooms aren’t currently in use, so I can host a last minute meeting. 
+- As a student, I want reserve any room not currently in use, so I can host a last minute meeting. 
 
-- As a commuter, I want to reserve a seat in advance so I will have somewhere to sit between campus, reliably.
+- As a commuter, I want to reserve a single seat in advance so I will have somewhere to sit between classes, reliably.
 
 - As a student, I want to reserve a console so I can play games with friends. 
 
 - As a student, I want to reserve a study space so that I can have a silent study environment.
 
-- As a student, I want to be able to know the features of a computer lab, so I can access certain software.
+- As a student, I want to be reserve a VR machine to do my digital art assignment. 
 
 
 ## Activity Diagrams
 
-User making a room reservation by searching or the room section
+User making a room reservation.
 
 <a href="https://www.figma.com/file/XYVwfrSNmy2idALxnAMT2m/UML-Room-res?node-id=0%3A1"><img src="./src/UML%20Room%20res.png" height="300" width="1000"/></a></a>
 
+User making a reservation for VR.
+
+<a href="https://www.figma.com/file/c4FNAaG5HmeNUA4BcINsXf/UML-Tech-res?node-id=12%3A125" target="_blank"><img src="./src/UML_VR_res.png" height="300" width="1000"/></a></a>
 
 ## Wireframe Diagrams
 
