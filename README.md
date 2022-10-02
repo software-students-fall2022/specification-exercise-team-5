@@ -56,7 +56,9 @@ NYU students are in need of a comprehensive and unified reservation system for B
 
 ## Activity Diagrams
 
-![UML Room res](E:\大学\大三\Software Engineering\github-classroom\software-students-fall2022\specification-exercise-team-5\src\UML Room res.png)
+User making a room reservation by searching or the room section
+
+![UML Room res](./src/UML Room res.png)
 
 
 ## Wireframe Diagrams
