@@ -57,3 +57,12 @@ NYU students are in need of a comprehensive and unified reservation system for B
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+
+## Wireframe Diagrams
+
+<a href="https://www.figma.com/file/tsQs2kiqpfBSQ6TXV3w506/Wireframe-diagram?node-id=0%3A1"><img src="./src/Wireframe%20diagram.png" height="400" /></a>
+
+## Clickable Prototype
+
+[Link to prototype](https://www.figma.com/file/1qeYtmnA9MI0NV0ljpfuT5/prototype?node-id=0%3A1)
