@@ -58,7 +58,7 @@ NYU students are in need of a comprehensive and unified reservation system for B
 
 User making a room reservation by searching or the room section
 
-<a href="https://www.figma.com/file/XYVwfrSNmy2idALxnAMT2m/UML-Room-res?node-id=0%3A1"><img src="./src/UML room res.png" height="300" width="1000"/></a>
+<a href="https://www.figma.com/file/XYVwfrSNmy2idALxnAMT2m/UML-Room-res?node-id=0%3A1"><img src="./src/UML%20room%20res.png" height="300" width="1000"/></a>
 
 
 ## Wireframe Diagrams
