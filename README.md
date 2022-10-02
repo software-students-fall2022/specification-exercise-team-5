@@ -56,17 +56,17 @@ NYU students are in need of a comprehensive and unified reservation system for B
 
 ## Activity Diagrams
 
-User making a room reservation.
+As a student, I want reserve any room not currently in use, so I can host a last minute meeting.
 
-<a href="https://www.figma.com/file/XYVwfrSNmy2idALxnAMT2m/UML-Room-res?node-id=0%3A1"><img src="./src/UML%20Room%20res.png" height="300" width="1000"/></a></a>
+<a href="https://www.figma.com/file/XYVwfrSNmy2idALxnAMT2m/UML-Room-res?node-id=0%3A1"><img src="./src/UML%20Room%20res.png"/></a></a>
 
-User making a reservation for VR.
+As a student, I want to be reserve a VR machine to do my digital art assignment. 
 
-<a href="https://www.figma.com/file/c4FNAaG5HmeNUA4BcINsXf/UML-Tech-res?node-id=12%3A125" target="_blank"><img src="./src/UML_VR_res.png" height="300" width="1000"/></a></a>
+<a href="https://www.figma.com/file/c4FNAaG5HmeNUA4BcINsXf/UML-Tech-res?node-id=12%3A125" target="_blank"><img src="./src/UML_VR_res.png"/></a></a>
 
-## Wireframe Diagrams
+## Wireframe Diagram
 
-<a href="https://www.figma.com/file/tsQs2kiqpfBSQ6TXV3w506/Wireframe-diagram?node-id=0%3A1"><img src="./src/Wireframe%20diagram.png" height="400" /></a>
+<a href="https://www.figma.com/file/tsQs2kiqpfBSQ6TXV3w506/Wireframe-diagram?node-id=0%3A1"><img src="./src/Wireframe%20diagram.png" height="400"/></a>
 
 ## Clickable Prototype
 
