@@ -16,14 +16,17 @@ Ian Liao Github profile: https://github.com/ian-Liaozy
 
 ## Stakeholders
 
-Our intended stakeholders are NYU students who use NYU spaces, like libraries, dining halls, or technology centers, for any reason.  
+Our intended stakeholders are NYU student workers(graders and tutors), considering they take a small stake from NYU's gross profit, who use NYU spaces, like libraries, dining halls, or technology centers, for any reason and wish to make it better.  
 
-### Link to "interview" (Google Form)
+### Link to "interview" (Google Form for end users)
 
 https://forms.gle/wTKkD35TMF552f8G9man
 
-### Stakeholders we interviewed: 
+### Stakeholder we interviewed: 
+
 Leo is a CAS senior commuter and is both a student worker tutor and grader at Wasserman center in association with NYU. He frequently uses the Bobst reservation system to find places during classes. His most complaints during weekdays are about how the online reservation is redundant and tedious with a tremendous amount of useless texts and regulations on the selection page. A neat, simple style of the user interface would suits better for his experience. He also believes that the current OS is not capable of canceling previous reservations, which has caused some pain to others. Currently, a significant amount of needs private study room for students as the school year begins. He believes that if there's a feasible and constructive application for the improvement and refreshment of the reservation system, he will be captivated to make the small investment.
+
+### End users we interviewed:
 
 Claire is an NYU student who uses NYU reservation systems to quickly find priority seating on campus, to better organize her day, to have access to a place to convene with others or to find a private spot on campus. Her biggest issue with the current NYU reservation system is its unintuitive interface and confusing drop-down menus– both of which add a little frustration when trying to navigate through the page. On the other hand, Claire likes knowing the features of the room before she books it, and would like to see the same predictability throughout the redesigned app– with access to real-time information about seat availability and busyness. 
 
