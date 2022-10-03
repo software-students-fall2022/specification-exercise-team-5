@@ -26,8 +26,24 @@ https://forms.gle/wTKkD35TMF552f8G9man
 
 Leo is a CAS senior commuter and is both a student tutor and grader at Wasserman center in association with NYU. He frequently uses the Bobst reservation system to find places during classes. His largest complaints during weekdays are about how the online reservation is redundant and tedious with a tremendous amount of useless texts and regulations on the selection page. A neat and simple user interface would suit it better for his experience. He also believes that the current OS is not capable of canceling previous reservations, which has caused some pain to others. Currently, there is a large demand of private study room for students as the school year begins. He believes that if there's a feasible and constructive application for the improvement and refreshment of the reservation system, he will be captivated to make the small investment.
 
-### End users we interviewed:
+David Tam is an NYU IT staff member who assists others in NYU’s technology centers. He knows that NYU is underfunding the labs because many people are not reserving the various consoles or computers, but are just coming in to use them. This causes NYU to not know that the facility is actually being used as much as it is. Because of this, he wants to create an app that would both make it easier to reserve but also provide real time data so NYU would be able to properly gauge the funding that they deserve. Also, the current reservation system is done by a third party service, so 
 
+Goals:
+- Realtime seating data 
+- Unified reservation app for a multitude of NYU services
+- Ability to manage current reservations
+- Classroom availability 
+- Sleek UI
+
+Problems:
+- Not being properly funded because people don’t reserve
+- No way to cancel so people don’t know if they can use rooms that are reserved
+- No easy way to know if a classroom is in use
+- Awkward interface for current reservations and fragmentation of different building’s reservations
+- Current reservation system is done by a third party service, increasing expenses
+
+
+### End users we interviewed:
 Claire is an NYU student who uses NYU reservation systems to quickly find priority seating on campus, to better organize her day, to have access to a place to convene with others or to find a private spot on campus. Her biggest issue with the current NYU reservation system is its unintuitive interface and confusing drop-down menus– both of which add a little frustration when trying to navigate through the page. On the other hand, Claire likes knowing the features of the room before she books it, and would like to see the same predictability throughout the redesigned app– with access to real-time information about seat availability and busyness. 
 
 James, a computer science talented student, claims that with the increasing demands of private study rooms during school days, it's impossible to reserve a spot that is available within a few hours. He says he has to pre-reserve 2 weeks earlier to get the spot he wanted, which could be very frustrating. James wishes that there could be some improvements like real-time data so that he can reserve a certain spot at a certain building according to its capacity and availability within a few hours. That would be a huge relief.
