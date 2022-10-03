@@ -72,7 +72,8 @@ As a student, I want to be reserve a VR machine to do my digital art assignment.
 
 ## Wireframe Diagram
 
-<a href="https://www.figma.com/file/tsQs2kiqpfBSQ6TXV3w506/Wireframe-diagram?node-id=0%3A1"><img src="./src/Wireframe%20diagram.png" height="400"/></a>
+<a href="https://www.figma.com/file/tsQs2kiqpfBSQ6TXV3w506/Wireframe-diagram?node-id=0%3A1"><img src="./src/Wireframe%20diagram.png" height="600"/></a>
+Click on image for better viewing, and comments. 
 
 ## Clickable Prototype
 
