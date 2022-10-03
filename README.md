@@ -79,4 +79,6 @@ Click on image for better viewing, and comments.
 
 [Link to prototype](https://www.figma.com/file/1qeYtmnA9MI0NV0ljpfuT5/prototype?node-id=0%3A1)
 
+[Link to published prototype](https://www.figma.com/proto/1qeYtmnA9MI0NV0ljpfuT5/prototype?node-id=70%3A122&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+
 [Link to prototype with color and images](https://www.figma.com/proto/W1o9ypNpeod4LT0YJ1BJx5/prototype-(Copy)?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
